@@ -349,7 +349,7 @@ footer{
   background-color: #0E7C86;
   color: #F0F4F8;
   width: 100%;
-  position: absolute;
+  position: fixed;
   bottom: 0;
 }
 
